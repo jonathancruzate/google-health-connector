@@ -111,3 +111,10 @@ Full operating notes: [CONNECTOR.md](CONNECTOR.md). Worked payload: [examples/sl
 [ghealth](https://github.com/Google-Health-API/google-health-cli) — the open-source,
 agent-oriented CLI for the Google Health API (Apache 2.0) — plus the connector
 configuration and operating procedure in this repo.
+
+## Install it with Muse
+
+Just give this prompt to your Muse:
+
+> "Install Google Health Connector from https://github.com/jonathancruzate/google-health-connector — read the README, install it, set it up for me, and show me how to use it."
+
